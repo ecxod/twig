@@ -1,0 +1,6 @@
+{
+    
+    "php.version": "8.2",
+    "php.format.rules.alignProperties": true,
+    "php.format.rules.alignConstants": true
+}
